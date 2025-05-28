@@ -1,0 +1,10 @@
+{
+  "default": {
+    "name": "Default Version",
+    "url": "https://example.com/default_pack.zip"
+  },
+  "iranian": {
+    "name": "rockstar Iranian version",
+    "url": "https://github.com/Mohammadhadiii226/Rockstar-iran/releases/download/0.0.16/rockstar_pack.zip"
+  }
+}
